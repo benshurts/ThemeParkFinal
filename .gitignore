@@ -58,3 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Our addons
+ThemePark/Assets/Ludiq/
+
+ThemePark/Assets/Ludiq.Generated/
+
+ThemePark/Assets/Ludiq.Generated.meta
+
+ThemePark/Assets/Ludiq.meta
+
+ThemePark/Assets/ProceduralUIImage.meta
